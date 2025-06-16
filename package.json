@@ -1,0 +1,23 @@
+{
+  "name": "shopeasy",
+  "version": "1.0.0",
+  "description": "E-Commerce App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharanikumar-BK/Shopeasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharanikumar-BK/Shopeasy/issues"
+  },
+  "homepage": "https://github.com/Bharanikumar-BK/Shopeasy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
